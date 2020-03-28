@@ -1,0 +1,24 @@
+{
+  "name": "bubble-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavgb/bubble-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavgb/bubble-portfolio/issues"
+  },
+  "homepage": "https://github.com/gustavgb/bubble-portfolio#readme",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
